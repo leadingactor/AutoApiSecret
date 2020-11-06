@@ -1,5 +1,5 @@
 # AutoApiSecret-加密版
-AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
+AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS(需要手动action)
 
 # 停更
 目前e5没法续期，不知道是国外疫情还是什么情况。据说可以等过期主动联系微软验证活跃度续期。
